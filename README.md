@@ -31,4 +31,4 @@ available:
   with actual diff (`false` by default).
 
 # Credits
-Marat Abdullin [gulp-dedupe]('https://github.com/hoho/gulp-dedupe')
+Marat Abdullin [gulp-dedupe](https://github.com/hoho/gulp-dedupe)
