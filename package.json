@@ -1,0 +1,39 @@
+{
+    "name": "gulp-main-dedupe",
+    "description": "Check for duplicates in the stream and filter them or throw an error",
+    "version": "0.0.2",
+    "homepage": "https://github.com/drioemgaoin/GulpMainDedupe",
+    "repository": "git://github.com/hoho/gulp-dedupe.git",
+    "author": "Romain Diegoni <rdiegoniauthentication@gmail.com>",
+    "license": "MIT",
+    "main": "./index.js",
+    "keywords": [
+        "gulpplugin",
+        "dedupe",
+        "duplicates"
+    ],
+    "repository": {
+      "type": "git",
+      "url": "https://github.com/drioemgaoin/GulpMainDedupe.git"
+    },
+    "bugs": {
+        "url": "https://github.com/drioemgaoin/GulpMainDedupe/issues"
+    },
+    "dependencies": {
+        "gulp-util": "~3.0.1",
+        "through": "~2.3.6",
+        "lodash.defaults": "~2.4.1",
+        "colors": "~1.0.2",
+        "diff": "~1.0.8"
+    },
+    "devDependencies": {
+        "mocha": "*",
+        "should": "*"
+    },
+    "scripts": {
+        "test": "mocha"
+    },
+    "engines": {
+        "node": ">=0.10"
+    }
+}
