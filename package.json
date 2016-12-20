@@ -1,7 +1,7 @@
 {
     "name": "gulp-main-dedupe",
     "description": "Check for duplicates in the stream and filter them or throw an error",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "homepage": "https://github.com/drioemgaoin/GulpMainDedupe",
     "repository": "git://github.com/hoho/gulp-dedupe.git",
     "author": "Romain Diegoni <rdiegoniauthentication@gmail.com>",
